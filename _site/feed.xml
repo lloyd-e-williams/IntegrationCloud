@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-05T00:23:22-05:00</updated><id>http://localhost:4000/</id><title type="html">Oracle Integration Cloud</title><subtitle>This site provides a variety of Oracle Integration Cloud Tutorials that you can use to learn how to build integrations with Oracle Integation Cloud (OIC). You can learn more about Oracle Integration Cloud at: https://cloud.oracle.com/en_US/oic</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-05T00:46:24-05:00</updated><id>http://localhost:4000/</id><title type="html">Oracle Integration Cloud</title><subtitle>This site provides a variety of Oracle Integration Cloud Tutorials that you can use to learn how to build integrations with Oracle Integation Cloud (OIC). You can learn more about Oracle Integration Cloud at: https://cloud.oracle.com/en_US/oic</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2018/03/05/2018-05-01-tutorial-01.html" rel="alternate" type="text/html" title="" /><published>2018-03-05T00:46:24-05:00</published><updated>2018-03-05T00:46:24-05:00</updated><id>http://localhost:4000/2018/03/05/2018-05-01-tutorial-01</id><content type="html" xml:base="http://localhost:4000/2018/03/05/2018-05-01-tutorial-01.html">&lt;p&gt;This tutorial explains how to use the REST adapter to allow a user to make a REST call using JSON to trigger an integration.&lt;/p&gt;
+
+&lt;p&gt;From the designer menu, choose &lt;strong&gt;Connections&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/Screen Shot 2018-03-05 at 12.13.12 AM.png&quot; alt=&quot;Screen Shot 2018-03-05 at 12.13.12 AM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on the Create button to start creating a new connection:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/Screen Shot 2018-03-05 at 12.17.11 AM.png&quot; alt=&quot;Screen Shot 2018-03-05 at 12.17.11 AM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Search for REST&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/Screen Shot 2018-03-05 at 12.37.55 AM.png&quot; alt=&quot;Screen Shot 2018-03-05 at 12.37.55 AM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Select the REST adapter.&lt;/p&gt;
+
+&lt;p&gt;Name the connection: Local REST &lt;your initials=&quot;&quot;&gt; as shown in the picture below:&lt;/your&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/Screen Shot 2018-03-05 at 12.40.16 AM.png&quot; alt=&quot;Screen Shot 2018-03-05 at 12.40.16 AM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click the &lt;strong&gt;Create&lt;/strong&gt; button&lt;/p&gt;</content><author><name></name></author></entry></feed>
