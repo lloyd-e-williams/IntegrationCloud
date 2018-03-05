@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutorial 01: Using the REST Adapter"
-date:   2018-01-01 19:34:21 -0500
+date:   2018-04-30 19:34:21 -0500
 categories: oic tutorial 
 ---
 This tutorial explains how to use the REST adapter to allow a user to make a REST call using JSON to trigger an integration.
